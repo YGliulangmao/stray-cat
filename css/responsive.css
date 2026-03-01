@@ -62,8 +62,9 @@
         padding: 0.6rem 1.2rem;
     }
 
-    .card-img {
-        height: 150px;
+     .card-img {
+        width:100%
+        height:auto;
     }
 
     .hero-slider {
